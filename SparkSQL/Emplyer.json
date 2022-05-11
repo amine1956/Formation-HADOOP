@@ -1,0 +1,47 @@
+
+[
+  {
+    "id": 1,
+    "name": "amine",
+    "phone": "0638913611",
+    "salary": 1500,
+    "age": 18,
+    "departement": "math"
+  },
+  {
+    "id": 2,
+    "name": "amine",
+    "phone": "0638913611",
+    "salary": 1500,
+    "age": 18,
+    "departement": "communication"
+  },
+  {
+    "id": 3,
+    "name": "amine",
+    "phone": "0638913611",
+    "salary": 1500,
+    "age": 18,
+    "departement": "communication"
+  },
+  {
+    "id": 4,
+    "name": "amine",
+    "phone": "0638913611",
+    "salary": 1500,
+    "age": 31,
+    "departement": "phisique"
+  },
+  {
+    "id": 5,
+    "name": "amine",
+    "phone": "0638913611",
+    "salary": 1500,
+    "age": 32,
+    "departement": "info"
+  }
+]
+//afficher les employer ayant age 30 et 35
+//Affcivher la moyenne des salaire de chaque deparetemnt
+//afficher le nombre de sakaries par departement
+//afficher les salaire maximume  de tous les departement
